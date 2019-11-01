@@ -1,5 +1,5 @@
 # AMKA
 
-// Vlidation of Hellenic Social Security Numbers
+Validation of Hellenic Social Security Numbers
 
-// Έλγχος ορθότητας Αριθμών Μητρώου Κοινωνικής Ασφάλισης (ΑΜΚΑ).
+Έλεγχος ορθότητας - επικύρωση Αριθμών Μητρώου Κοινωνικής Ασφάλισης (ΑΜΚΑ).
